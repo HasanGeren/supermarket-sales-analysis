@@ -5,18 +5,31 @@ This project involves a comprehensive analysis of supermarket sales data sourced
 
 ## Project Structure
 Sales_Analysis/
+
 ├── data/
+
 │ └── supermarket_sales.csv
+
 ├── notebooks/
+
 │ ├── MySQL_supermarket_sales_analysis.ipynb
+
 │ └── supermarket_sales_analysis.ipynb
+
 ├── SQL/
+
 │ ├── MySQL_supermarket_sales_analysis.sql
+
 │ ├── MySQL_table_create.sql
+
 │ └── supermarket_sales_db.sql
+
 ├── .env.example
+
 ├── .gitignore
+
 ├── requirements.txt
+
 └── README.md
 
 ## Data Source
