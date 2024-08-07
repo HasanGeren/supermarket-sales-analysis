@@ -1,5 +1,7 @@
 # Supermarket Sales Analysis
 
+![Dashboard Screenshot](dashboard_screenshot.png)
+
 ## Project Description
 This project involves a comprehensive analysis of supermarket sales data sourced from [Kaggle](https://www.kaggle.com). The analysis was conducted using MySQL and Python, leveraging both MySQL and pandas for data manipulation and visualization. The primary objective is to gain insights into various sales performance metrics, customer behaviors, and trends.
 
@@ -44,6 +46,11 @@ cp .env.example .env
 ### Running the Jupyter Notebooks
 - **MySQL Analysis**: Open and run `notebooks/MySQL_supermarket_sales_analysis.ipynb` to see the analysis conducted using MySQL queries.
 - **Python Analysis**: Open and run `notebooks/supermarket_sales_analysis.ipynb` to see the analysis and visualizations conducted using pandas and matplotlib.
+
+## Interactive Dashboard
+The interactive dashboard created using Tableau Public provides a visual representation of the analysis. You can explore the dashboard by following the link below:
+
+[Supermarket Sales Analysis Dashboard](https://public.tableau.com/app/profile/hasan.geren/viz/SalesAnalysis_17230080454050/OverallSales?publish=yes)
 
 ## Project Files
 - **data/supermarket_sales.csv**: The raw dataset used for analysis.
